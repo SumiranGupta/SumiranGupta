@@ -1,87 +1,83 @@
 <h1 align="center">Hi 👋, I'm Sumiran Gupta</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer & AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Dev | AI Explorer | Cloud Enthusiast ✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" alt="ai-gif" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;AI+and+ML+Practitioner;Always+learning+something+new!&center=true&width=500&height=45">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="developer animation">
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Final Year CSE Undergrad @ KIIT, Bhubaneswar  
-- 💡 Passionate about crafting full-stack apps and AI-powered systems    
-- 🔍 Exploring: Agentic AI, DevOps pipelines, Prompt Engineering  
-- 🏆 Hackathon Winner | Open Source Contributor | Internship Experience  
+### 👨‍💻 About Me
+
+I'm a passionate developer blending full-stack development with AI innovation to build real-world solutions. Currently leveling up with AWS, Emotion Detection, and CI/CD pipelines — and building cool things like Smart Study Scheduler, Note Ninja, and more! 🌟
 
 ---
 
-### 🛠️ Technical Skills
+### 🔭 Current Projects
 
-#### 💻 Programming
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-
-#### 🛠 Backend & DB
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-
-#### 📊 ML & Data Tools
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python)
-
-#### ☁️ DevOps / Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+- 📚 **Smart Study Scheduler** – AI-driven study planner with Pomodoro, reminders, and AWS S3 file support (MERN + AI + AWS)
+- 💬 **Note Ninja** – Hackathon-winning project: AI-based note summarizer + emotion detection (Python + NLP)
+- 🌦️ **Weathervue** – Weather dashboard with OpenWeatherMap API & Tailwind CSS (React + Vercel)
+- 📺 **Streamer** – Real-time 1-on-1 video chat app with screen sharing and JWT auth (React + Node + Zustand)
 
 ---
 
-### 🌟 Notable Projects
+### 🌱 Learning Focus
 
-- 🔗 [**Streamer**](https://streamer-connector.onrender.com) – 1-on-1 Video Calls, Screen Share, JWT Auth, 32 UI themes  
-- 🔗 [**Weathervue**](https://weather-dashboard-zo4r.vercel.app/) – React Weather App w/ 5-Day Forecast & Dark Mode  
-
----
-
-### 🏅 Achievements
-
-- 🧠 **PwC Launchpad Trainee** (Feb 2025 – Present):  
-  Certified in IT Fundamentals, Java Programming, RDBMS  
-  Currently training in Cloud, DevOps & Responsive Web Design  
-
-- 📦 **Cisco Virtual Internship – Forage**  
-  Built frontend prototypes and data stream pipelines for simulated engineering role  
-
-- 🏆 **Winner – Hackathon at KIIT** (Note Ninja)  
-  Developed an AI-powered emotion + note analysis app  
-
-- 🎓 **TCS iON Soft Skills | Coursera Data Analysis**  
-  Certified in workplace adaptability, Excel-based data analytics
+- 🤖 **AI Agents & Generative AI** – Exploring BERT, transformers, and prompt engineering
+- ☁️ **AWS Cloud** – Hands-on with Lambda, S3, CodeDeploy, EC2 (CI/CD Certified ✅)
+- ⚛️ **React + Redux** – Advanced hooks, global state management & performance optimization
+- 📊 **Data Viz** – Building with Seaborn, Pandas, and matplotlib for ML dashboards
 
 ---
 
-### 📬 Let’s Connect
+### 💡 Side Ideas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumiran-gupta/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/SumiranGupta" target="blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
-</p>
+- 🧠 **Emotion-Aware Study Assistant** – Track mood via voice/text and adapt schedules accordingly
+- 📥 **Smart Reminder Bot** – NLP-based email/task manager
+- 🛍️ **EcoCart Clone** – Sustainable e-commerce w/ group buying + carbon footprint tracking
+
+---
+
+### 🤝 Open to Collaboration On
+
+- 🛠️ Full-stack apps with MERN, React, or Flask
+- 🤖 ML/AI-powered tools (NLP, Speech Emotion, Agents)
+- ☁️ Cloud-hosted projects with AWS, CI/CD pipelines
+
+---
+
+### 🏅 Highlights & Achievements
+
+- 🥇 **Hackathon Winner** – Built Note Ninja at college tech fest
+- 👨‍💻 **PwC Launchpad Trainee** – Certified in Java, RDBMS, IT Fundamentals; learning DevOps & Cloud
+- 🔍 **Edunet AI Intern (AICTE + Shell)** – Built chatbot with NLP + dashboards (Python)
+- 📦 **Cisco Virtual Internship** – Frontend, streaming, and dev environments for software sim project
+- 🎓 **TCS iON & Coursera Certified** – Soft skills, Excel-based data analytics, teamwork
+
+---
+
+### 💬 Ask Me About
+
+- 🚀 Full-Stack (MERN, Flask, Java)
+- 🧠 AI/ML – Emotion detection, text classification, chatbot development
+- ☁️ AWS – EC2, S3, Lambda, CodePipeline
+- 🎯 Resume, internships & project-building tips
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumiran-gupta/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/SumiranGupta)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:sumirang02@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+
+My code might crash, but my passion never does 💥😄  
+Also... I can build you an AI-powered task buddy faster than you can finish your coffee ☕😉
 
 ---
 
