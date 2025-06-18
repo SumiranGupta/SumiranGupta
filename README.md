@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate Full Stack Developer & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" alt="ai-gif" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="500" alt="workspace-gif" />
 </p>
 
 <p align="center">
