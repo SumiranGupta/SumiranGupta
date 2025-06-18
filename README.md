@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate Full Stack Developer & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="dev-animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="dev-gif" />
 </p>
 
 <p align="center">
@@ -55,10 +55,8 @@
 
 ### 🌟 Notable Projects
 
-- 🔗 [**Smart Study Scheduler**](https://github.com/SumiranGupta) – MERN + AI-based productivity app with Pomodoro, AWS S3, Emotion Detection  
 - 🔗 [**Streamer**](https://streamer-connector.onrender.com) – 1-on-1 Video Calls, Screen Share, JWT Auth, 32 UI themes  
 - 🔗 [**Weathervue**](https://weather-dashboard-zo4r.vercel.app/) – React Weather App w/ 5-Day Forecast & Dark Mode  
-- 🔗 [**Note Ninja**](https://github.com/SumiranGupta/NoteNinja) – Hackathon-winning AI Note Summarizer + Emotion Tracker
 
 ---
 
@@ -67,9 +65,6 @@
 - 🧠 **PwC Launchpad Trainee** (Feb 2025 – Present):  
   Certified in IT Fundamentals, Java Programming, RDBMS  
   Currently training in Cloud, DevOps & Responsive Web Design  
-
-- 🤖 **AI & Data Analytics Intern – Edunet (AICTE + Shell)**  
-  Built chatbot using NLP, tuned ML models, and visualized response accuracy with dashboards  
 
 - 📦 **Cisco Virtual Internship – Forage**  
   Built frontend prototypes and data stream pipelines for simulated engineering role  
