@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumiran Gupta</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer & ML Enthusiast</h3>
+<h3 align="center">🚀 A passionate Full Stack Developer & AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" alt="ai-gif" />
@@ -12,9 +12,8 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Final Year CSE Undergrad @ KIIT, Bhubaneswar (CGPA: 8.85)  
-- 💡 Passionate about crafting full-stack apps and AI-powered systems  
-- 👨‍💻 Currently building **Smart Study Scheduler (MERN + AI + AWS)**  
+- 🎓 Final Year CSE Undergrad @ KIIT, Bhubaneswar  
+- 💡 Passionate about crafting full-stack apps and AI-powered systems    
 - 🔍 Exploring: Agentic AI, DevOps pipelines, Prompt Engineering  
 - 🏆 Hackathon Winner | Open Source Contributor | Internship Experience  
 
