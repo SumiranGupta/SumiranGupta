@@ -55,10 +55,8 @@
 
 ### 🌟 Notable Projects
 
-- 🔗 [**Smart Study Scheduler**](https://github.com/SumiranGupta) – MERN + AI-based productivity app with Pomodoro, AWS S3, Emotion Detection  
 - 🔗 [**Streamer**](https://streamer-connector.onrender.com) – 1-on-1 Video Calls, Screen Share, JWT Auth, 32 UI themes  
 - 🔗 [**Weathervue**](https://weather-dashboard-zo4r.vercel.app/) – React Weather App w/ 5-Day Forecast & Dark Mode  
-- 🔗 [**Note Ninja**](https://github.com/SumiranGupta/NoteNinja) – Hackathon-winning AI Note Summarizer + Emotion Tracker
 
 ---
 
